@@ -1,1 +1,2 @@
-this is a sample note
+this is a sample note.
+This is the second line.
