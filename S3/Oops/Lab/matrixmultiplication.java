@@ -1,6 +1,4 @@
-//Program to print matrixmultiplication
-//Ashna Thajudheen
-//Roll No:17
+
 import java.util.*;
 class matrixmultiplication {
     public static void main(String args[]) {
